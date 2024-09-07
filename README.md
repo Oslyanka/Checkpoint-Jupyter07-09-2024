@@ -8,7 +8,7 @@ Este repositório contém um projeto de análise de dados que explora a relaçã
 
 - **`notebook.ipynb`**: Notebook Jupyter contendo o código de análise, visualizações e insights.
 - **`netflix_titles.csv`**: Dataset contendo informações sobre filmes e séries da Netflix.
-- **`rotten_tomatoes_critic_reviews.csv`**: Dataset contendo avaliações críticas de filmes do Rotten Tomatoes.
+- **`rotten_tomatoes_critic_reviews.csv`**: Dataset contendo avaliações críticas de filmes do Rotten Tomatoes.( DATASET MUITO GRANDE PARA SER INCLUSO COLOCAREI O LINK AQUI: https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset/data )
 - **`final_imdb_dataset.csv`**: Dataset contendo informações de filmes do IMDb.
 
 ## Objetivos do Projeto
